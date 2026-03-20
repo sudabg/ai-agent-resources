@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Docker",
+    "url": "https://github.com/veggiemonk/awesome-docker",
+    "score": 13,
+    "section": "Back-End Development",
+    "reasons": [
+      "tier1-exact",
+      "kw:docker"
+    ]
+  },
+  {
+    "name": "Kubernetes",
+    "url": "https://github.com/ramitsurana/awesome-kubernetes",
+    "score": 13,
+    "section": "Back-End Development",
+    "reasons": [
+      "tier1-exact",
+      "kw:kubernetes"
+    ]
+  },
+  {
+    "name": "Machine Learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "score": 13,
+    "section": "Computer Science",
+    "reasons": [
+      "tier1-exact",
+      "kw:machine-learning"
+    ]
+  },
+  {
+    "name": "Deep Learning",
+    "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+    "score": 13,
+    "section": "Computer Science",
+    "reasons": [
+      "tier1-exact",
+      "kw:deep-learning"
+    ]
+  },
+  {
+    "name": "Analytics",
+    "url": "https://github.com/0xnr/awesome-analytics",
+    "score": 13,
+    "section": "Miscellaneous",
+    "reasons": [
+      "tier1-exact",
+      "kw:analytics"
+    ]
+  },
+  {
+    "name": "GraphQL",
+    "url": "https://github.com/chentsulin/awesome-graphql",
+    "score": 13,
+    "section": "Miscellaneous",
+    "reasons": [
+      "tier1-exact",
+      "kw:graphql"
+    ]
+  },
+  {
+    "name": "Microservices",
+    "url": "https://github.com/mfornos/awesome-microservices",
+    "score": 13,
+    "section": "Miscellaneous",
+    "reasons": [
+      "tier1-exact",
+      "kw:microservice"
+    ]
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://github.com/sindresorhus/awesome-chatgpt",
+    "score": 13,
+    "section": "Miscellaneous",
+    "reasons": [
+      "tier1-exact",
+      "kw:gpt"
+    ]
+  },
+  {
+    "name": "Python",
+    "url": "https://github.com/vinta/awesome-python",
+    "score": 12,
+    "section": "Programming Languages",
+    "reasons": [
+      "tier1-exact",
+      "kw:python"
+    ]
+  },
+  {
+    "name": "Product Management",
+    "url": "https://github.com/dend/awesome-product-management",
+    "score": 12,
+    "section": "Learn",
+    "reasons": [
+      "tier1-exact",
+      "kw:product"
+    ]
+  },
+  {
+    "name": "Computer Vision",
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+    "score": 11,
+    "section": "Computer Science",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "TensorFlow",
+    "url": "https://github.com/jtoy/awesome-tensorflow",
+    "score": 11,
+    "section": "Computer Science",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "Shell",
+    "url": "https://github.com/alebcay/awesome-shell",
+    "score": 11,
+    "section": "Development Environment",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/phillipadsmith/awesome-github",
+    "score": 11,
+    "section": "Development Environment",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "Email Newsletters",
+    "url": "https://github.com/zudochkin/awesome-newsletters",
+    "score": 11,
+    "section": "Entertainment",
+    "reasons": [
+      "tier1-exact",
+      "name:ai"
+    ]
+  },
+  {
+    "name": "REST",
+    "url": "https://github.com/marmelab/awesome-rest",
+    "score": 11,
+    "section": "Miscellaneous",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "Node.js",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "score": 10,
+    "section": "Platforms",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "score": 10,
+    "section": "Programming Languages",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "Rust",
+    "url": "https://github.com/rust-unofficial/awesome-rust",
+    "score": 10,
+    "section": "Programming Languages",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "Go",
+    "url": "https://github.com/avelino/awesome-go",
+    "score": 10,
+    "section": "Programming Languages",
+    "reasons": [
+      "tier1-exact"
+    ]
+  },
+  {
+    "name": "Data Science",
+    "url": "https://github.com/krzjoa/awesome-python-data-science",
+    "score": 4,
+    "section": "Programming Languages",
+    "reasons": [
+      "kw:python",
+      "kw:data-science"
+    ]
+  }
+]
