@@ -1,0 +1,20 @@
+{
+  "phase": "done",
+  "total_links": 699,
+  "scanned": 21,
+  "relevant": 602,
+  "immediate": 15,
+  "longterm": 587,
+  "phase_detail": "Complete! 15 immediate + 587 long-term resources",
+  "categories": {
+    "Go": {
+      "count": 601,
+      "desc": ""
+    },
+    "Rust": {
+      "count": 1,
+      "desc": ""
+    }
+  },
+  "last_update": "2026-03-20T16:56:03.401688"
+}
