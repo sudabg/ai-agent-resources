@@ -1,0 +1,4236 @@
+{
+  "🤖 AI/LLM": [
+    {
+      "name": "go-openai",
+      "url": "https://github.com/sashabaranov/go-openai",
+      "desc": "OpenAI ChatGPT, DALL·E, Whisper API library for Go.",
+      "source": "Go",
+      "score": 8
+    },
+    {
+      "name": "openaigo",
+      "url": "https://github.com/otiai10/openaigo",
+      "desc": "OpenAI GPT3/GPT3.5 ChatGPT API client library for Go.",
+      "source": "Go",
+      "score": 6
+    },
+    {
+      "name": "chromem-go",
+      "url": "https://github.com/philippgille/chromem-go",
+      "desc": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional ",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "langgraphgo",
+      "url": "https://github.com/smallnest/langgraphgo",
+      "desc": "A Go library for building stateful, multi-actor applications with LLMs, built on the concept of LangGraph，with a lot of ",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Ollama",
+      "url": "https://github.com/jmorganca/ollama",
+      "desc": "Run large language models locally.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "OllamaFarm",
+      "url": "https://github.com/presbrey/ollamafarm",
+      "desc": "Manage, load-balance, and failover packs of Ollamas.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "desc": "Milvus is a vector database for embedding management, analytics and search.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "oops",
+      "url": "https://github.com/samber/oops",
+      "desc": "Error handling with context, stack trace and source fragments.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "fake-useragent",
+      "url": "https://github.com/lib4u/fake-useragent",
+      "desc": "Up-to-date simple useragent faker with real world database in Golang",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "tlm",
+      "url": "https://github.com/yusufcanb/tlm",
+      "desc": "Local cli copilot, powered by CodeLLaMa",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "orpheus",
+      "url": "https://github.com/agilira/orpheus",
+      "desc": "CLI framework with security hardening, plugin storage system, and production observability features.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "NoKV",
+      "url": "https://github.com/feichai0017/NoKV",
+      "desc": "High-performance distributed KV storage based on LSM Tree.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "dragonboat",
+      "url": "https://github.com/lni/dragonboat",
+      "desc": "A feature complete and high performance multi-group Raft library in Go.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "roveralls",
+      "url": "https://github.com/LawrenceWoodman/roveralls",
+      "desc": "Recursive coverage testing tool.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "catboost-cgo",
+      "url": "https://github.com/mirecl/catboost-cgo",
+      "desc": "Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inferenc",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "minio",
+      "url": "https://github.com/minio/minio",
+      "desc": "Minio is a distributed object storage server.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goc",
+      "url": "https://github.com/qiniu/goc",
+      "desc": "Goc is a comprehensive coverage testing system for The Go Programming Language.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gosuite",
+      "url": "https://github.com/pavlo/gosuite",
+      "desc": "Brings lightweight test suites with setup/teardown facilities to `testing` by leveraging Go1.7's Subtests.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-fasttld",
+      "url": "https://github.com/elliotwutingfeng/go-fasttld",
+      "desc": "High performance effective top level domains (eTLD) extraction module.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gocraft/web",
+      "url": "https://github.com/gocraft/web",
+      "desc": "Mux and middleware package in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gocryforhelp",
+      "url": "https://github.com/ninedraft/gocryforhelp",
+      "desc": "Collection of Go projects that needs help. Good place to start your open-source way in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "fun",
+      "url": "https://gitlab.com/tozd/go/fun",
+      "desc": "The simplest but powerful way to use large language models (LLMs) in Go.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "langchaingo",
+      "url": "https://github.com/tmc/langchaingo",
+      "desc": "LangChainGo is a framework for developing applications powered by language models.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "desc": "Open Source OpenAI alternative, self-host AI models.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "desc": "An IPFS implementation in Go. It provides content-addressable storage which can be used for decentralized storage in DAp",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-colorable",
+      "url": "https://github.com/mattn/go-colorable",
+      "desc": "Colorable writer for windows.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-prompt",
+      "url": "https://github.com/c-bata/go-prompt",
+      "desc": "Library for building a powerful interactive prompt, inspired by [python-prompt-toolkit](https://github.com/jonathanslend",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "strumt",
+      "url": "https://github.com/antham/strumt",
+      "desc": "Library to create prompt chain.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "wmenu",
+      "url": "https://github.com/dixonwille/wmenu",
+      "desc": "Easy to use menu structure for cli applications that prompt users to make choices.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-beautiful-html-coverage",
+      "url": "https://github.com/gha-common/go-beautiful-html-coverage",
+      "desc": "A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-test-coverage",
+      "url": "https://github.com/marketplace/actions/go-test-coverage",
+      "desc": "A GitHub Action which reports issues when test coverage is below set threshold.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "gotestfmt",
+      "url": "https://github.com/GoTestTools/gotestfmt",
+      "desc": "go test output for humans.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "goveralls",
+      "url": "https://github.com/mattn/goveralls",
+      "desc": "Go integration for Coveralls.io continuous code coverage tracking system.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Databunker",
+      "url": "https://github.com/paranoidguy/databunker",
+      "desc": "Personally identifiable information (PII) storage service built to comply with GDPR and CCPA.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "moss",
+      "url": "https://github.com/couchbase/moss",
+      "desc": "Moss is a simple LSM key-value storage engine written in 100% Go.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "skizze",
+      "url": "https://github.com/seiflotfy/skizze",
+      "desc": "probabilistic data-structures service and storage.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Dragonfly",
+      "url": "https://github.com/dragonflyoss/Dragonfly2",
+      "desc": "Provide efficient, stable and secure file distribution and image acceleration based on p2p technology to be the best pra",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "gval",
+      "url": "https://github.com/PaesslerAG/gval",
+      "desc": "A highly customizable expression language written in Go.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "tracerr",
+      "url": "https://github.com/ztrue/tracerr",
+      "desc": "Golang errors with stack trace and source fragments.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "gismanager",
+      "url": "https://github.com/hishamkaram/gismanager",
+      "desc": "Publish Your GIS Data(Vector Data) to PostGIS and Geoserver.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "canvas",
+      "url": "https://github.com/tdewolff/canvas",
+      "desc": "Vector graphics to PDF, SVG or rasterized image.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "darkroom",
+      "url": "https://github.com/gojek/darkroom",
+      "desc": "An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "mort",
+      "url": "https://github.com/aldor007/mort",
+      "desc": "Storage and image processing server written in Go.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-job",
+      "url": "https://github.com/cybergarage/go-job",
+      "desc": "A flexible and extensible job scheduling and execution library for Go.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "shield",
+      "url": "https://github.com/eaigner/shield",
+      "desc": "Bayesian text classifier with flexible tokenizers and storage backends for Go.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "sttr",
+      "url": "https://github.com/abhimanyu003/sttr",
+      "desc": "cross-platform, cli app to perform various operations on string.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "avgRating",
+      "url": "https://github.com/kirillDanshin/avgRating",
+      "desc": "Calculate average score and rating based on Wilson Score Equation.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go2vec",
+      "url": "https://github.com/danieldk/go2vec",
+      "desc": "Reader and utility functions for word2vec embeddings.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "ewma",
+      "url": "https://github.com/VividCortex/ewma",
+      "desc": "Exponentially-weighted moving averages.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "hdf5",
+      "url": "https://github.com/scigolib/hdf5",
+      "desc": "Pure Go implementation of the HDF5 file format for scientific data storage and exchange.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "orb",
+      "url": "https://github.com/paulmach/orb",
+      "desc": "2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "beelzebub",
+      "url": "https://github.com/mariocandela/beelzebub",
+      "desc": "A secure low code honeypot framework, leveraging AI for System Virtualization.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "pii-shield",
+      "url": "https://github.com/aragossa/pii-shield",
+      "desc": "Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "unitpacking",
+      "url": "https://github.com/recolude/unitpacking",
+      "desc": "Library to pack unit vectors into as fewest bytes as possible.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "fasttemplate",
+      "url": "https://github.com/valyala/fasttemplate",
+      "desc": "Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "got",
+      "url": "https://github.com/goradd/got",
+      "desc": "A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, lang",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-carpet",
+      "url": "https://github.com/msoap/go-carpet",
+      "desc": "Tool for viewing test coverage in terminal.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-test-coverage",
+      "url": "https://github.com/vladopajic/go-test-coverage",
+      "desc": "Tool that reports coverage of files below set threshold.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "w2vgrep",
+      "url": "https://github.com/arunsupe/semantic-grep",
+      "desc": "A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for \"death\" will",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "handy",
+      "url": "https://github.com/miguelpragier/handy",
+      "desc": "Many utilities and helpers like string handlers/formatters and validators.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Cosign",
+      "url": "https://github.com/sigstore/cosign",
+      "desc": "Container Signing, Verification and Storage in an OCI registry.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "stto",
+      "url": "https://github.com/mainak55512/stto",
+      "desc": "A light-weight superfast line of code counter written in pure Go.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "onWatch",
+      "url": "https://github.com/onllm-dev/onWatch",
+      "desc": "Monitor AI API quotas across providers locally with historical tracking, alerts, and a web dashboard to avoid surprise t",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Free Gophers Pack",
+      "url": "https://github.com/MariaLetta/free-gophers-pack",
+      "desc": "Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Go-gopher-Vector",
+      "url": "https://github.com/keygx/Go-gopher-Vector",
+      "desc": "Go gopher Vector Data [.ai, .svg].",
+      "source": "Go",
+      "score": 2
+    }
+  ],
+  "📊 数据存储": [
+    {
+      "name": "wescale",
+      "url": "https://github.com/wesql/wescale",
+      "desc": "WeScale is a database proxy designed to enhance the scalability, performance, security, and resilience of your applicati",
+      "source": "Go",
+      "score": 6
+    },
+    {
+      "name": "LinDB",
+      "url": "https://github.com/lindb/lindb",
+      "desc": "LinDB is a scalable, high performance, high availability distributed time series database.",
+      "source": "Go",
+      "score": 5
+    },
+    {
+      "name": "psql-streamer",
+      "url": "https://github.com/blind-oracle/psql-streamer",
+      "desc": "Stream database events from PostgreSQL to Kafka.",
+      "source": "Go",
+      "score": 5
+    },
+    {
+      "name": "hotplex",
+      "url": "https://github.com/hrygo/hotplex",
+      "desc": "AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools. Provides ful",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "ttlcache",
+      "url": "https://github.com/cheshir/ttlcache",
+      "desc": "In-memory key value storage with TTL for each record.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "SFTPGo",
+      "url": "https://github.com/drakkan/sftpgo",
+      "desc": "Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "EchoVault",
+      "url": "https://github.com/EchoVault/EchoVault",
+      "desc": "Embeddable Distributed in-memory data store compatible with Redis clients.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "dgraph",
+      "url": "https://github.com/dgraph-io/dgraph",
+      "desc": "Scalable, Distributed, Low Latency, High Throughput Graph Database.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "DiceDB",
+      "url": "https://github.com/DiceDB/dice",
+      "desc": "An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median lat",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "godis",
+      "url": "https://github.com/hdt3213/godis",
+      "desc": "A Golang implemented high-performance Redis server and cluster.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "ledisdb",
+      "url": "https://github.com/siddontang/ledisdb",
+      "desc": "Ledisdb is a high performance NoSQL like Redis based on LevelDB.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "objectbox-go",
+      "url": "https://github.com/objectbox/objectbox-go",
+      "desc": "High-performance embedded Object Database (NoSQL) with Go API.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "rqlite",
+      "url": "https://github.com/rqlite/rqlite",
+      "desc": "The lightweight, distributed, relational database built on SQLite.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "tidb",
+      "url": "https://github.com/pingcap/tidb",
+      "desc": "TiDB is a distributed SQL database. Inspired by the design of Google F1.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "unitdb",
+      "url": "https://github.com/unit-io/unitdb",
+      "desc": "Fast timeseries database for IoT, realtime messaging applications. Access unitdb with pubsub over tcp or websocket using",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "VictoriaMetrics",
+      "url": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+      "desc": "fast, resource-effective and scalable open source time series database. May be used as long-term remote storage for Prom",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "soda",
+      "url": "https://github.com/gobuffalo/pop/tree/master/soda",
+      "desc": "Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "pgweb",
+      "url": "https://github.com/sosedoff/pgweb",
+      "desc": "Web-based PostgreSQL database browser.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "buildsqlx",
+      "url": "https://github.com/arthurkushman/buildsqlx",
+      "desc": "Go database query builder library for PostgreSQL.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "xo",
+      "url": "https://github.com/knq/xo",
+      "desc": "Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, M",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "gokv",
+      "url": "https://github.com/philippgille/gokv",
+      "desc": "Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached,",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "pgx",
+      "url": "https://github.com/jackc/pgx",
+      "desc": "PostgreSQL driver supporting features beyond those exposed by database/sql.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "redigo",
+      "url": "https://github.com/gomodule/redigo",
+      "desc": "Redigo is a Go client for the Redis database.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "redis-lock",
+      "url": "https://github.com/bsm/redislock",
+      "desc": "Simplified distributed locking implementation using Redis.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Asynq",
+      "url": "https://github.com/hibiken/asynq",
+      "desc": "A simple, reliable, and efficient distributed task queue for Go built on top of Redis.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "grimoire",
+      "url": "https://github.com/Fs02/grimoire",
+      "desc": "Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3).",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "pop/soda",
+      "url": "https://github.com/gobuffalo/pop",
+      "desc": "Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "rel",
+      "url": "https://github.com/go-rel/rel",
+      "desc": "Modern Database Access Layer for Golang - Testable, Extendable and Crafted Into a Clean and Elegant API.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "dbcleaner",
+      "url": "https://github.com/khaiql/dbcleaner",
+      "desc": "Clean database for testing purpose, inspired by `database_cleaner` in Ruby.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "embedded-postgres",
+      "url": "https://github.com/fergusstrange/embedded-postgres",
+      "desc": "Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "go-sqlmock",
+      "url": "https://github.com/DATA-DOG/go-sqlmock",
+      "desc": "Mock SQL driver for testing database interactions.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "go-txdb",
+      "url": "https://github.com/DATA-DOG/go-txdb",
+      "desc": "Single transaction based database driver mainly for testing purposes.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "iWF",
+      "url": "https://github.com/indeedeng/iwf",
+      "desc": "iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for uti",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "JuiceFS",
+      "url": "https://github.com/juicedata/juicefs",
+      "desc": "Distributed POSIX file system built on top of Redis and AWS S3.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "go-jwt",
+      "url": "https://github.com/pardnchiu/go-jwt",
+      "desc": "JWT authentication package providing access tokens and refresh tokens with fingerprinting, Redis storage, and automatic ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "spicedb",
+      "url": "https://github.com/authzed/spicedb",
+      "desc": "A Zanzibar-inspired database that enables fine-grained authorization.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "xdg",
+      "url": "https://github.com/adrg/xdg",
+      "desc": "Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/latest/)",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "hatchet",
+      "url": "https://github.com/hatchet-dev/hatchet",
+      "desc": "Distributed, Fault-tolerant task queue.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "memlog",
+      "url": "https://github.com/embano1/memlog",
+      "desc": "An easy to use, lightweight, thread-safe and append-only in-memory data structure inspired by Apache Kafka.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gdcache",
+      "url": "https://github.com/ulovecode/gdcache",
+      "desc": "A pure non-intrusive cache library implemented by golang, you can use it to implement your own distributed cache.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gocache",
+      "url": "https://github.com/eko/gocache",
+      "desc": "A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "bbolt",
+      "url": "https://github.com/etcd-io/bbolt",
+      "desc": "An embedded key/value database for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Bitcask",
+      "url": "https://git.mills.io/prologic/bitcask",
+      "desc": "Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write per",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "buntdb",
+      "url": "https://github.com/tidwall/buntdb",
+      "desc": "Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "clover",
+      "url": "https://github.com/ostafen/clover",
+      "desc": "A lightweight document-oriented NoSQL database written in pure Golang.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Coffer",
+      "url": "https://github.com/claygod/coffer",
+      "desc": "Simple ACID key-value database that supports transactions.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "CovenantSQL",
+      "url": "https://github.com/CovenantSQL/CovenantSQL",
+      "desc": "CovenantSQL is a SQL database on blockchain.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "eliasdb",
+      "url": "https://github.com/krotik/eliasdb",
+      "desc": "Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goleveldb",
+      "url": "https://github.com/syndtr/goleveldb",
+      "desc": "Implementation of the [LevelDB](https://github.com/google/leveldb) key/value database in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "hare",
+      "url": "https://github.com/jameycribbs/hare",
+      "desc": "A simple database management system that stores each table as a text file of line-delimited JSON.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "immudb",
+      "url": "https://github.com/codenotary/immudb",
+      "desc": "immudb is a lightweight, high-speed immutable database for systems and applications written in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "libradb",
+      "url": "https://github.com/amit-davidson/LibraDB",
+      "desc": "LibraDB is a simple database with less than 1000 lines of code for learning.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "lotusdb",
+      "url": "https://github.com/flower-corp/lotusdb",
+      "desc": "Fast k/v database compatible with lsm and b+tree.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "pebble",
+      "url": "https://github.com/cockroachdb/pebble",
+      "desc": "RocksDB/LevelDB inspired key-value database in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "piladb",
+      "url": "https://github.com/fern4lvarez/piladb",
+      "desc": "Lightweight RESTful database engine based on stack data structures.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "redka",
+      "url": "https://github.com/nalgeon/redka",
+      "desc": "Redis re-implemented with SQLite.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rosedb",
+      "url": "https://github.com/roseduan/rosedb",
+      "desc": "An embedded k-v database based on LSM+WAL, supports string, list, hash, set, zset.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rotom",
+      "url": "https://github.com/xgzlucario/rotom",
+      "desc": "A tiny Redis server built with Golang, compatible with RESP protocols.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "tiedot",
+      "url": "https://github.com/HouzuoGuo/tiedot",
+      "desc": "Your NoSQL database powered by Golang.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "atlas",
+      "url": "https://github.com/ariga/atlas",
+      "desc": "A Database Toolkit. A CLI designed to help companies better work with their data.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "bytebase",
+      "url": "https://github.com/bytebase/bytebase",
+      "desc": "Safe database schema change and version control for DevOps teams.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "darwin",
+      "url": "https://github.com/GuiaBolso/darwin",
+      "desc": "Database schema evolution library for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dbmate",
+      "url": "https://github.com/amacneil/dbmate",
+      "desc": "A lightweight, framework-agnostic database migration tool.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-fixtures",
+      "url": "https://github.com/RichardKnop/go-fixtures",
+      "desc": "Django style fixtures for Golang's excellent built-in database/sql library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "godfish",
+      "url": "https://github.com/rafaelespinoza/godfish",
+      "desc": "Database migration manager, works with native query language. Support for cassandra, mysql, postgres, sqlite3.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goose",
+      "url": "https://github.com/pressly/goose",
+      "desc": "Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gorm-seeder",
+      "url": "https://github.com/Kachit/gorm-seeder",
+      "desc": "Simple database seeder for Gorm ORM.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gormigrate",
+      "url": "https://github.com/go-gormigrate/gormigrate",
+      "desc": "Database schema migration helper for Gorm ORM.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "libschema",
+      "url": "https://github.com/muir/libschema",
+      "desc": "Define your migrations separately in each library. Migrations for open source libraries. MySQL & PostgreSQL.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "migrate",
+      "url": "https://github.com/golang-migrate/migrate",
+      "desc": "Database migrations. CLI and Golang library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "migrator",
+      "url": "https://github.com/lopezator/migrator",
+      "desc": "Dead simple Go database migration library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "migrator",
+      "url": "https://github.com/larapulse/migrator",
+      "desc": "MySQL database migrator designed to run migrations to your features and manage database schema update with intuitive go ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "schema",
+      "url": "https://github.com/adlio/schema",
+      "desc": "Library to embed schema migrations for database/sql-compatible databases inside your Go binaries.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sql-migrate",
+      "url": "https://github.com/rubenv/sql-migrate",
+      "desc": "Database migration tool. Allows embedding migrations into the application using go-bindata.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sqlize",
+      "url": "https://github.com/sunary/sqlize",
+      "desc": "Database migration generator. Allows generate sql migration from model and existing sql by differ them.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "chproxy",
+      "url": "https://github.com/Vertamedia/chproxy",
+      "desc": "HTTP proxy for ClickHouse database.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "database-gateway",
+      "url": "https://github.com/kazhuravlev/database-gateway",
+      "desc": "Running SQL in production with ACLs, logs, and shared links.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dbbench",
+      "url": "https://github.com/sj14/dbbench",
+      "desc": "Database benchmarking tool with support for several databases and scripts.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gorm-multitenancy",
+      "url": "https://github.com/bartventer/gorm-multitenancy",
+      "desc": "Multi-tenancy support for GORM managed databases.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "octillery",
+      "url": "https://github.com/knocknote/octillery",
+      "desc": "Go package for sharding databases ( Supports every ORM or raw SQL ).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "onedump",
+      "url": "https://github.com/liweiyi88/onedump",
+      "desc": "Database backup from different drivers to different destinations with one command and configuration.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "pg_timetable",
+      "url": "https://github.com/cybertec-postgresql/pg_timetable",
+      "desc": "Advanced scheduling for PostgreSQL.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "pREST",
+      "url": "https://github.com/prest/prest",
+      "desc": "Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rdb",
+      "url": "https://github.com/HDT3213/rdb",
+      "desc": "Redis RDB file parser for secondary development and memory analysis.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rwdb",
+      "url": "https://github.com/andizzle/rwdb",
+      "desc": "rwdb provides read replica capability for multiple database servers setup.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "vitess",
+      "url": "https://github.com/youtube/vitess",
+      "desc": "vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dbq",
+      "url": "https://github.com/rocketlaunchr/dbq",
+      "desc": "Zero boilerplate database operations for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "godbal",
+      "url": "https://github.com/xujiajun/godbal",
+      "desc": "Database Abstraction Layer (dbal) for go. Support SQL builder and get result easily.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Hotcoal",
+      "url": "https://github.com/motrboat/hotcoal",
+      "desc": "Secure your handcrafted SQL against injection.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "igor",
+      "url": "https://github.com/galeone/igor",
+      "desc": "Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "jet",
+      "url": "https://github.com/go-jet/jet",
+      "desc": "Framework for writing type-safe SQL queries in Go, with ability to easily convert database query result into desired arb",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ormlite",
+      "url": "https://github.com/pupizoid/ormlite",
+      "desc": "Lightweight package containing some ORM-like features and helpers for sqlite databases.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "relica",
+      "url": "https://github.com/coregx/relica",
+      "desc": "Type-safe database query builder with zero production dependencies, LRU statement cache, batch operations, and support f",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sqrl",
+      "url": "https://github.com/elgris/sqrl",
+      "desc": "SQL query builder, fork of Squirrel with improved performance.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "cayley",
+      "url": "https://github.com/google/cayley",
+      "desc": "Graph database with support for multiple backends.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "avatica",
+      "url": "https://github.com/apache/calcite-avatica-go",
+      "desc": "Apache Avatica/Phoenix SQL driver for database/sql.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-adodb",
+      "url": "https://github.com/mattn/go-adodb",
+      "desc": "Microsoft ActiveX Object DataBase driver for go that uses database/sql.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-oci8",
+      "url": "https://github.com/mattn/go-oci8",
+      "desc": "Oracle driver for go that uses database/sql.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-sqlite3",
+      "url": "https://github.com/mattn/go-sqlite3",
+      "desc": "SQLite3 driver for go that uses database/sql.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-sqlite3",
+      "url": "https://github.com/ncruces/go-sqlite3",
+      "desc": "This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides di",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "pq",
+      "url": "https://github.com/lib/pq",
+      "desc": "Pure Go Postgres driver for database/sql.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sqlhooks",
+      "url": "https://github.com/qustavo/sqlhooks",
+      "desc": "Attach hooks to any database/sql driver.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ydb-go-sdk",
+      "url": "https://github.com/ydb-platform/ydb-go-sdk",
+      "desc": "native and database/sql driver YDB (Yandex Database).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-rejson",
+      "url": "https://github.com/nitishm/go-rejson",
+      "desc": "Golang client for redislabs' ReJSON module using Redigo golang client. Store and manipulate structs as JSON objects in r",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gocosmos",
+      "url": "https://github.com/btnguyen2k/gocosmos",
+      "desc": "REST client and standard `database/sql` driver for Azure Cosmos DB.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "godis",
+      "url": "https://github.com/piaohao/godis",
+      "desc": "redis client implement by golang, inspired by jedis.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Kivik",
+      "url": "https://github.com/go-kivik/kivik",
+      "desc": "Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "redeo",
+      "url": "https://github.com/bsm/redeo",
+      "desc": "Redis-protocol compatible TCP servers/services.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "redis",
+      "url": "https://github.com/redis/go-redis",
+      "desc": "Redis client for Golang.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "xredis",
+      "url": "https://github.com/shomali11/xredis",
+      "desc": "Typesafe, customizable, clean & easy to use Redis client.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "clickhouse-go",
+      "url": "https://github.com/ClickHouse/clickhouse-go/",
+      "desc": "ClickHouse SQL client for Go with a `database/sql` compatibility.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "effdsl",
+      "url": "https://github.com/sdqri/effdsl",
+      "desc": "Elasticsearch query builder for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "elasticsql",
+      "url": "https://github.com/cch123/elasticsql",
+      "desc": "Convert sql to elasticsearch dsl in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goes",
+      "url": "https://github.com/OwnLocal/goes",
+      "desc": "Library to interact with Elasticsearch.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "capillaries",
+      "url": "https://github.com/capillariesio/capillaries",
+      "desc": "distributed batch data processing framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "glow",
+      "url": "https://github.com/chrislusf/glow",
+      "desc": "Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-mysql-lock",
+      "url": "https://github.com/sanketplus/go-mysql-lock",
+      "desc": "MySQL based distributed lock.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "outbox",
+      "url": "https://github.com/oagudo/outbox",
+      "desc": "Lightweight library for the transactional outbox pattern in Go, not tied to any specific relational database or broker.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "transaction",
+      "url": "https://github.com/claygod/transaction",
+      "desc": "Embedded transactional database of accounts, running in multithreaded mode.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "cdule",
+      "url": "https://github.com/deepaksinghvi/cdule",
+      "desc": "Job scheduler library with database support",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sqldb-logger",
+      "url": "https://github.com/simukti/sqldb-logger",
+      "desc": "A logger for Go SQL database driver without modify existing \\*sql.DB stdlib usage.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ami",
+      "url": "https://github.com/kak-tus/ami",
+      "desc": "Go client to reliable queues based on Redis Cluster Streams.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Commander",
+      "url": "https://github.com/jeroenrinzema/commander",
+      "desc": "A high-level event driven consumer/producer supporting various \"dialects\" such as Apache Kafka.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Confluent Kafka Golang Client",
+      "url": "https://github.com/confluentinc/confluent-kafka-go",
+      "desc": "confluent-kafka-go is Confluent's Golang client for Apache Kafka and the Confluent Platform.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "machinery",
+      "url": "https://github.com/RichardKnop/machinery",
+      "desc": "Asynchronous task queue/job queue based on distributed message passing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "redisqueue",
+      "url": "https://github.com/robinjoseph08/redisqueue",
+      "desc": "redisqueue provides a producer and consumer of a queue that uses Redis streams.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sarama",
+      "url": "https://github.com/Shopify/sarama",
+      "desc": "Go library for Apache Kafka.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Uniqush-Push",
+      "url": "https://github.com/uniqush/uniqush-push",
+      "desc": "Redis backed unified push service for server-side notifications to mobile devices.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Watermill",
+      "url": "https://github.com/ThreeDotsLabs/watermill",
+      "desc": "Working efficiently with message streams. Building event driven applications, enabling event sourcing, RPC over messages",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "url-shortener",
+      "url": "https://github.com/pantrif/url-shortener",
+      "desc": "A modern, powerful, and robust URL shortener microservice with mysql support.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "psql-wire",
+      "url": "https://github.com/jeroenrinzema/psql-wire",
+      "desc": "PostgreSQL server wire protocol. Build your own server and start serving connections..",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "cacheme",
+      "url": "https://github.com/Yiling-J/cacheme-go",
+      "desc": "Schema based, typed Redis caching/memoize framework for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-dbw",
+      "url": "https://github.com/hashicorp/go-dbw",
+      "desc": "A simple package that encapsulates database operations.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-store",
+      "url": "https://github.com/gosuri/go-store",
+      "desc": "Simple and fast Redis backed key-value store library for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gormt",
+      "url": "https://github.com/xxjwxc/gormt",
+      "desc": "Mysql database to golang gorm struct.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Prisma",
+      "url": "https://github.com/prisma/prisma-client-go",
+      "desc": "Prisma Client Go, Typesafe database access for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "SQLBoiler",
+      "url": "https://github.com/volatiletech/sqlboiler",
+      "desc": "ORM generator. Generate a featureful and blazing-fast ORM tailored to your database schema.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "upper.io/db",
+      "url": "https://github.com/upper/db",
+      "desc": "Single interface for interacting with different data sources through the use of adapters that wrap mature database drive",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Zoom",
+      "url": "https://github.com/albrow/zoom",
+      "desc": "Blazing-fast datastore and querying engine built on Redis.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goven",
+      "url": "https://github.com/SeldonIO/goven",
+      "desc": "A drop-in query language for any database schema.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "mql",
+      "url": "https://github.com/hashicorp/mql",
+      "desc": "Model Query Language (mql) is a query language for your database models.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "acra",
+      "url": "https://github.com/cossacklabs/acra",
+      "desc": "Network encryption proxy to protect database-based applications from data leaks: strong selective encryption, SQL inject",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-proxy-cache",
+      "url": "https://github.com/fabiocicerchia/go-proxy-cache",
+      "desc": "Simple Reverse Proxy with Caching, written in Go, using Redis.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "pocketbase",
+      "url": "https://github.com/pocketbase/pocketbase",
+      "desc": "PocketBase is a realtime backend in 1 file consisting of embedded database (SQLite) with realtime subscriptions, built-i",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dsunit",
+      "url": "https://github.com/viant/dsunit",
+      "desc": "Datastore testing for SQL, NoSQL, structured files.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-mysql-test-container",
+      "url": "https://github.com/arikama/go-mysql-test-container",
+      "desc": "Golang MySQL testcontainer to help with MySQL integration testing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "testfixtures",
+      "url": "https://github.com/go-testfixtures/testfixtures",
+      "desc": "A helper for Rails' like test fixtures to test database applications.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "testsql",
+      "url": "https://github.com/zhulongcheng/testsql",
+      "desc": "Generate test data from SQL files before testing and clear it after finished.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "pgxmock",
+      "url": "https://github.com/pashagolub/pgxmock",
+      "desc": "A mock library implementing [pgx - PostgreSQL Driver and Toolkit](https://github.com/jackc/pgx/).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sq",
+      "url": "https://github.com/neilotoole/sq",
+      "desc": "Convert data from SQL databases or document formats like CSV or Excel into formats such as JSON, Excel, CSV, HTML, Markd",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "GoFreeDB",
+      "url": "https://github.com/FreeLeh/GoFreeDB",
+      "desc": "Golang library providing common and simple database abstractions on top of Google Sheets.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "golang-tmdb",
+      "url": "https://github.com/cyruzin/golang-tmdb",
+      "desc": "Golang wrapper for The Movie Database API v3.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "mssqlx",
+      "url": "https://github.com/linxGnu/mssqlx",
+      "desc": "Database client library, proxy for any master slave, master master structures. Lightweight and auto balancing in mind.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "onecache",
+      "url": "https://github.com/adelowo/onecache",
+      "desc": "Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "scany",
+      "url": "https://github.com/georgysavva/scany",
+      "desc": "Library for scanning data from a database into Go structs and more.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sqlx",
+      "url": "https://github.com/jmoiron/sqlx",
+      "desc": "provides a set of extensions on top of the excellent built-in database/sql package.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sqlz",
+      "url": "https://github.com/rfberaldo/sqlz",
+      "desc": "Extension for the database/sql package, adding named queries, struct scanning, and batch operations.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "usql",
+      "url": "https://github.com/knq/usql",
+      "desc": "usql is a universal command-line interface for SQL databases.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "coc-go language server extension for Vim/Neovim",
+      "url": "https://github.com/josa42/coc-go",
+      "desc": "This plugin adds [gopls](https://github.com/golang/tools/blob/master/gopls/README.md) features to Vim/Neovim.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "kcli",
+      "url": "https://github.com/cswank/kcli",
+      "desc": "Command line tool for inspecting kafka topics/partitions/messages.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "kubeblocks",
+      "url": "https://github.com/apecloud/kubeblocks",
+      "desc": "KubeBlocks is an open-source control plane that runs and manages databases, message queues and other data infrastructure",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "trubka",
+      "url": "https://github.com/xitonix/trubka",
+      "desc": "A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protoco",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "borg",
+      "url": "https://github.com/crufter/borg",
+      "desc": "Terminal based search engine for bash snippets.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "golang-sql-benchmark",
+      "url": "https://github.com/tyler-smith/golang-sql-benchmark",
+      "desc": "Collection of benchmarks for popular Go database/SQL utilities.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "kvbench",
+      "url": "https://github.com/jimrobinson/kvbench",
+      "desc": "Key/Value database benchmark.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "CodeCrafters Golang Track",
+      "url": "https://app.codecrafters.io/tracks/go",
+      "desc": "Achieve mastery in advanced Go by building your own Redis, Docker, Git, and SQLite. Featuring goroutines, systems progra",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-geoindex",
+      "url": "https://github.com/hailocab/go-geoindex",
+      "desc": "In-memory geo index.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "dqueue",
+      "url": "https://github.com/vodolaz095/dqueue",
+      "desc": "Simple, in memory, zero dependency and battle tested, thread-safe deferred queue.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "dynamo",
+      "url": "https://github.com/fogfish/dynamo",
+      "desc": "A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and A",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "afs",
+      "url": "https://github.com/viant/afs",
+      "desc": "Abstract File Storage (mem, scp, zip, tar, cloud: s3, gs) for Go.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "artifex",
+      "url": "https://github.com/borderstech/artifex",
+      "desc": "Simple in-memory job queue for Golang using worker-based dispatching.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "varmq",
+      "url": "https://github.com/goptics/varmq",
+      "desc": "A storage-agnostic message queue and worker pool for concurrent Go programs.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "aws-encryption-sdk-go",
+      "url": "https://github.com/chainifynet/aws-encryption-sdk-go",
+      "desc": "Unofficial Go SDK implementation of the [AWS Encryption SDK](https://docs.aws.amazon.com/encryption-sdk/latest/developer",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "minio-go",
+      "url": "https://github.com/minio/minio-go",
+      "desc": "Minio Go Library for Amazon S3 compatible cloud storage.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "copy-pasta",
+      "url": "https://github.com/jutkko/copy-pasta",
+      "desc": "Universal multi-workstation clipboard that uses S3 like backend for the storage.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "mc",
+      "url": "https://github.com/minio/mc",
+      "desc": "Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "minquery",
+      "url": "https://github.com/icza/minquery",
+      "desc": "MongoDB / mgo.v2 query that supports efficient pagination (cursors to continue listing documents where we left off).",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "docker-volume-backup",
+      "url": "https://github.com/offen/docker-volume-backup",
+      "desc": "Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.",
+      "source": "Go",
+      "score": 2
+    }
+  ],
+  "🌐 API/Web": [
+    {
+      "name": "playwright-go",
+      "url": "https://github.com/mxschmitt/playwright-go",
+      "desc": "browser automation library to control Chromium, Firefox and WebKit with a single API.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "digota",
+      "url": "https://github.com/digota/digota",
+      "desc": "grpc ecommerce microservice.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Kitex",
+      "url": "https://github.com/cloudwego/kitex",
+      "desc": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices. If the perfo",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "guble",
+      "url": "https://github.com/smancke/guble",
+      "desc": "Messaging server using push notifications (Google Firebase Cloud Messaging, Apple Push Notification services, SMS) as we",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "gws",
+      "url": "https://github.com/Zaba505/gws",
+      "desc": "Apollos' \"GraphQL over Websocket\" client and server implementation.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Hertz",
+      "url": "https://github.com/cloudwego/hertz",
+      "desc": "A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "rk-boot",
+      "url": "https://github.com/rookie-ninja/rk-boot",
+      "desc": "A bootstrapper library for building enterprise go microservice with Gin and gRPC quickly and easily.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "goma-gateway",
+      "url": "https://github.com/jkaninda/goma-gateway",
+      "desc": "A Lightweight API Gateway and Reverse Proxy with declarative config, robust middleware, and support for REST, GraphQL, T",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "keto",
+      "url": "https://github.com/ory/keto",
+      "desc": "Open Source (Go) implementation of \"Zanzibar: Google's Consistent, Global Authorization System\". Ships gRPC, REST APIs, ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "solana-go",
+      "url": "https://github.com/gagliardetto/solana-go",
+      "desc": "Go library to interface with Solana JSON RPC and WebSocket interfaces.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "coherence-go-client",
+      "url": "https://github.com/oracle/coherence-go-client",
+      "desc": "Full implementation of Oracle Coherence cache API for Go applications using gRPC as network transport.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gatewayd",
+      "url": "https://github.com/gatewayd-io/gatewayd",
+      "desc": "Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-doudou",
+      "url": "https://github.com/unionj-cloud/go-doudou",
+      "desc": "A gossip protocol and OpenAPI 3.0 spec based decentralized microservice framework. Built-in go-doudou cli focusing on lo",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-eagle",
+      "url": "https://github.com/go-eagle/eagle",
+      "desc": "A Go framework for the API or Microservice with handy scaffolding tools.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-kit",
+      "url": "https://github.com/go-kit/kit",
+      "desc": "Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "desc": "The Go language implementation of gRPC. HTTP/2 based RPC.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Kratos",
+      "url": "https://github.com/go-kratos/kratos",
+      "desc": "A modular-designed and easy-to-use microservices framework in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rpcplatform",
+      "url": "https://github.com/nexcode/rpcplatform",
+      "desc": "Framework for microservices with service discovery, load balancing, and related features.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Tarmac",
+      "url": "https://github.com/tarmac-project/tarmac",
+      "desc": "Framework for writing functions, microservices, or monoliths with WebAssembly",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "prototype",
+      "url": "https://github.com/gonutz/prototype",
+      "desc": "Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "anchor",
+      "url": "https://github.com/kyuff/anchor",
+      "desc": "Library to manage component lifecycle in microservice architectures.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gogpu/ui",
+      "url": "https://github.com/gogpu/ui",
+      "desc": "GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "imaginary",
+      "url": "https://github.com/h2non/imaginary",
+      "desc": "Fast and simple HTTP microservice for image resizing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Centrifugo",
+      "url": "https://github.com/centrifugal/centrifugo",
+      "desc": "Real-time messaging (Websockets or SockJS) server in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-todo-backend",
+      "url": "https://github.com/Fs02/go-todo-backend",
+      "desc": "Go Todo Backend example using modular project layout for product microservice.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "govader-backend",
+      "url": "https://github.com/PIMPfiction/govader_backend",
+      "desc": "Microservice implementation of [GoVader](https://github.com/jonreiter/govader).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "httpproxy",
+      "url": "https://github.com/wzshiming/httpproxy",
+      "desc": "HTTP proxy handler and dialer.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "lhttp",
+      "url": "https://github.com/fanux/lhttp",
+      "desc": "Powerful websocket framework, build your IM server more easily.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "nodepass",
+      "url": "https://github.com/NodePassProject/nodepass",
+      "desc": "A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sftp",
+      "url": "https://github.com/pkg/sftp",
+      "desc": "Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-s",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "api-fu",
+      "url": "https://github.com/ccbrown/api-fu",
+      "desc": "Comprehensive GraphQL implementation.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gqlgen",
+      "url": "https://github.com/99designs/gqlgen",
+      "desc": "go generate based graphql server library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "grapher",
+      "url": "https://github.com/reaganiwadha/grapher",
+      "desc": "A GraphQL field builder utilizing Go generics with extra utilities and features.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "graphql",
+      "url": "https://github.com/neelance/graphql-go",
+      "desc": "GraphQL server with a focus on ease of use.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "graphql-go",
+      "url": "https://github.com/graphql-go/graphql",
+      "desc": "Implementation of GraphQL for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "straf",
+      "url": "https://github.com/SonicRoshan/straf",
+      "desc": "Easily Convert Golang structs to GraphQL objects.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "secure",
+      "url": "https://github.com/unrolled/secure",
+      "desc": "HTTP middleware for Go that facilitates some quick security wins.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "teler-waf",
+      "url": "https://github.com/kitabisa/teler-waf",
+      "desc": "teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ro",
+      "url": "https://github.com/samber/ro",
+      "desc": "Reactive Programming: declarative and composable API for event-driven applications.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "baloo",
+      "url": "https://github.com/h2non/baloo",
+      "desc": "Expressive and versatile end-to-end HTTP API testing made easy.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "frisby",
+      "url": "https://github.com/verdverm/frisby",
+      "desc": "REST API testing framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gofight",
+      "url": "https://github.com/appleboy/gofight",
+      "desc": "API Handler Testing for Golang Router framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "httpexpect",
+      "url": "https://github.com/gavv/httpexpect",
+      "desc": "Concise, declarative, and easy to use end-to-end HTTP and REST API testing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ltsv",
+      "url": "https://github.com/Wing924/ltsv",
+      "desc": "High performance [LTSV (Labeled Tab Separated Value)](http://ltsv.org/) reader for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ahocorasick",
+      "url": "https://github.com/coregx/ahocorasick",
+      "desc": "High-performance Aho-Corasick multi-pattern string matching with DFA compilation and SIMD prefilter, up to 7 GB/s throug",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "githubql",
+      "url": "https://github.com/shurcooL/githubql",
+      "desc": "Go library for accessing the GitHub GraphQL API v4.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "igdb",
+      "url": "https://github.com/Henry-Sarabia/igdb",
+      "desc": "Go client for the [Internet Game Database API](https://api.igdb.com/).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rawg-sdk-go",
+      "url": "https://github.com/dimuska139/rawg-sdk-go",
+      "desc": "Go library for the [RAWG Video Games Database](https://rawg.io/) API",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Barf",
+      "url": "https://github.com/opensaucerer/barf",
+      "desc": "Basically, A Remarkable Framework for building JSON-based web APIs. It is entirely unobtrusive and re-invents no wheel. ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Beego",
+      "url": "https://github.com/beego/beego",
+      "desc": "beego is an open-source, high-performance web framework for the Go programming language.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Echo",
+      "url": "https://github.com/labstack/echo",
+      "desc": "High performance, minimalist Go web framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "desc": "Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-api-boot",
+      "url": "https://github.com/SaiNageswarS/go-api-boot",
+      "desc": "A gRpc-first micro-service framework. Features include ODM support for Mongo, cloud resource support (AWS/Azure/Google),",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Goa",
+      "url": "https://github.com/goadesign/goa",
+      "desc": "Goa provides a holistic approach for developing remote APIs and microservices in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "GoFr",
+      "url": "https://github.com/gofr-dev/gofr",
+      "desc": "Gofr is an opinionated microservice development framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Huma",
+      "url": "https://github.com/danielgtaylor/huma/",
+      "desc": "Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Microservice",
+      "url": "https://github.com/claygod/microservice",
+      "desc": "The framework for the creation of microservices, written in Golang.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "patron",
+      "url": "https://github.com/beatlabs/patron",
+      "desc": "Patron is a microservice framework following best cloud practices with a focus on productivity.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "fasthttprouter",
+      "url": "https://github.com/buaazp/fasthttprouter",
+      "desc": "High performance router forked from `httprouter`. The first router fit for `fasthttp`.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "httprouter",
+      "url": "https://github.com/julienschmidt/httprouter",
+      "desc": "High performance router. Use this and the standard http handlers to form a very high performance web framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "xmux",
+      "url": "https://github.com/rs/xmux",
+      "desc": "High performance muxer based on `httprouter` with `net/context` support.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "OpenZiti",
+      "url": "https://github.com/openziti/ziti",
+      "desc": "A full, open source zero trust overlay network. Including numerous SDKs for numerous languages such as [golang](https://",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Spire",
+      "url": "https://github.com/spiffe/spire",
+      "desc": "SPIRE (the SPIFFE Runtime Environment) is a toolchain of APIs for establishing trust between software systems across a w",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Chapar",
+      "url": "https://github.com/chapar-rest/chapar",
+      "desc": "Chapar is a a cross-platform Postman alternative built with go, aims to help developers to test their api endpoints. it ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Build a blockchain from scratch in Go with gRPC",
+      "url": "https://github.com/volodymyrprokopyuk/go-blockchain",
+      "desc": "The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "neo4j",
+      "url": "https://github.com/cihangir/neo4j",
+      "desc": "Neo4j Rest API Bindings for Golang.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "xlog",
+      "url": "https://github.com/rs/xlog",
+      "desc": "Structured logger for `net/context` aware HTTP handlers with flexible dispatching.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "ctxi18n",
+      "url": "https://github.com/invopop/ctxi18n/",
+      "desc": "Context aware i18n with a short and consise API, pluralization, interpolation, and `fs.FS` support. YAML locale definiti",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Euterpe",
+      "url": "https://github.com/ironsmile/euterpe",
+      "desc": "Self-hosted music streaming server with built-in web UI and REST API.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "rod",
+      "url": "https://github.com/go-rod/rod",
+      "desc": "A Devtools driver to make web automation and scraping easy.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "appstore-sdk-go",
+      "url": "https://github.com/Kachit/appstore-sdk-go",
+      "desc": "Unofficial Golang SDK for AppStore Connect API.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "dusupay-sdk-go",
+      "url": "https://github.com/Kachit/dusupay-sdk-go",
+      "desc": "Unofficial Dusupay payment gateway API Client for Go",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "fasapay-sdk-go",
+      "url": "https://github.com/Kachit/fasapay-sdk-go",
+      "desc": "Unofficial Fasapay payment gateway XML API Client for Golang.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-lark",
+      "url": "https://github.com/go-lark/lark",
+      "desc": "An easy-to-use unofficial SDK for [Feishu](https://open.feishu.cn/) and [Lark](https://open.larksuite.com/) Open Platfor",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "lark",
+      "url": "https://github.com/chyroc/lark",
+      "desc": "[Feishu](https://open.feishu.cn/)/[Lark](https://open.larksuite.com/) Open API Go SDK, Support ALL Open API and Event Ca",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "playlyfe",
+      "url": "https://github.com/playlyfe/playlyfe-go-sdk",
+      "desc": "The Playlyfe Rest API Go SDK.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "WebGo",
+      "url": "https://github.com/naughtygopher/webgo",
+      "desc": "A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-comp",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "chain",
+      "url": "https://github.com/codemodus/chain",
+      "desc": "Handler wrapper chaining with scoped data (net/context-based \"middleware\").",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "chi",
+      "url": "https://github.com/go-chi/chi",
+      "desc": "Small, fast and expressive HTTP router built on net/context.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Goji",
+      "url": "https://github.com/goji/goji",
+      "desc": "Goji is a minimalistic and flexible HTTP request multiplexer with support for `net/context`.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "GoRouter",
+      "url": "https://github.com/vardius/gorouter",
+      "desc": "GoRouter is a Server/API micro framework, HTTP request router, multiplexer, mux that provides request router with middle",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "windowsupdate",
+      "url": "https://github.com/ceshihao/windowsupdate",
+      "desc": "A Golang binding for Windows Update Agent API using go-ole.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "golang-ifood-sdk",
+      "url": "https://github.com/arxdsilva/golang-ifood-sdk",
+      "desc": "iFood API SDK.",
+      "source": "Go",
+      "score": 2
+    }
+  ],
+  "🐳 DevOps/Infra": [
+    {
+      "name": "prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "desc": "Monitoring system and time series database.",
+      "source": "Go",
+      "score": 5
+    },
+    {
+      "name": "Flamingo",
+      "url": "https://github.com/i-love-flamingo/flamingo",
+      "desc": "Framework for pluggable web projects. Including a concept for modules and offering features for DI, Configareas, i18n, t",
+      "source": "Go",
+      "score": 5
+    },
+    {
+      "name": "create-go-app",
+      "url": "https://github.com/create-go-app/cli",
+      "desc": "A powerful CLI for create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) & depl",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "sentry-go",
+      "url": "https://github.com/getsentry/sentry-go",
+      "desc": "Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Easegress",
+      "url": "https://github.com/megaease/easegress",
+      "desc": "A cloud native high availability/performance traffic orchestration system with observability and extensibility.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "gnomock",
+      "url": "https://github.com/orlangure/gnomock",
+      "desc": "integration testing with real dependencies (database, cache, even Kubernetes or AWS) running in Docker, without mocks.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "MoniGO",
+      "url": "https://github.com/iyashjayesh/monigo",
+      "desc": "A performance monitoring library for Go applications. It provides real-time insights into application performance! 🚀",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "k6",
+      "url": "https://github.com/grafana/k6",
+      "desc": "A modern load testing tool, using Go and JavaScript.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "podinfo",
+      "url": "https://github.com/stefanprodan/podinfo",
+      "desc": "Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes. Pod",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "go-fuzz-action",
+      "url": "https://github.com/jidicula/go-fuzz-action",
+      "desc": "Use Go 1.18's built-in fuzz testing in GitHub Actions.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "celeriac",
+      "url": "https://github.com/svcavallar/celeriac.v1",
+      "desc": "Library for adding support for interacting and monitoring Celery workers, tasks and events in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gowl",
+      "url": "https://github.com/hamed-yousefi/gowl",
+      "desc": "Gowl is a process management and process monitoring tool at once. An infinite worker pool gives you the ability to contr",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "JobRunner",
+      "url": "https://github.com/bamzi/jobrunner",
+      "desc": "Smart and featureful cron job scheduler with job queuing and live monitoring built in.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ozzo-log",
+      "url": "https://github.com/go-ozzo/ozzo-log",
+      "desc": "High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to vario",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "phuslu/log",
+      "url": "https://github.com/phuslu/log",
+      "desc": "High performance structured logging.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "xylog",
+      "url": "https://github.com/xybor-x/xylog",
+      "desc": "Leveled and structured logging, dynamic fields, high performance, zone management, simple configuration, and readable sy",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gotoprom",
+      "url": "https://github.com/cabify/gotoprom",
+      "desc": "Type-safe metrics builder wrapper library for the official Prometheus client.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "metrics",
+      "url": "https://github.com/pascaldekloe/metrics",
+      "desc": "Library for metrics instrumentation and Prometheus exposition.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dnsmonster",
+      "url": "https://github.com/mosajjal/dnsmonster",
+      "desc": "Passive DNS Capture/Monitoring Framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "jaeger",
+      "url": "https://github.com/jaegertracing/jaeger",
+      "desc": "A distributed tracing system.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "cortex-tenant",
+      "url": "https://github.com/blind-oracle/cortex-tenant",
+      "desc": "Prometheus remote write proxy that adds add Cortex tenant ID header based on metric labels.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "nginx-prometheus",
+      "url": "https://github.com/blind-oracle/nginx-prometheus",
+      "desc": "Nginx log parser and exporter to Prometheus.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dft",
+      "url": "https://github.com/abecodes/dft",
+      "desc": "Lightweight, zero dependency docker containers for testing (or more).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "grofer",
+      "url": "https://github.com/pesos/grofer",
+      "desc": "A system and resource monitoring tool written in Golang!",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rk-grpc",
+      "url": "https://github.com/rookie-ninja/rk-grpc",
+      "desc": "Middleware for gRPC with logging, metrics, auth, tracing etc.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "alaz",
+      "url": "https://github.com/ddosify/alaz",
+      "desc": "Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "colima",
+      "url": "https://github.com/abiosoft/colima",
+      "desc": "Container runtimes on macOS (and Linux) with minimal setup.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dish",
+      "url": "https://github.com/thevxn/dish",
+      "desc": "A lightweight, remotely configurable monitoring service.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dogo",
+      "url": "https://github.com/liudng/dogo",
+      "desc": "Monitoring changes in the source file and automatically compile and run (restart).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "kind",
+      "url": "https://github.com/kubernetes-sigs/kind",
+      "desc": "Kubernetes IN Docker - local clusters for testing Kubernetes.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "tau",
+      "url": "https://github.com/taubyte/tau",
+      "desc": "Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Obj",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "tcpdog",
+      "url": "https://github.com/mehrdadrad/tcpdog",
+      "desc": "eBPF based TCP observability.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "![Netlify Status",
+      "url": "https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status",
+      "desc": "",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "CDS",
+      "url": "https://github.com/ovh/cds",
+      "desc": "Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "zax",
+      "url": "https://github.com/yuseferi/zax",
+      "desc": "Integrate Context with Zap logger, which leads to more flexibility in Go logging.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "ocrserver",
+      "url": "https://github.com/otiai10/ocrserver",
+      "desc": "A simple OCR API server, seriously easy to be deployed by Docker and Heroku.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "stats",
+      "url": "https://github.com/go-playground/stats",
+      "desc": "Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "OpenRun",
+      "url": "https://github.com/openrundev/openrun",
+      "desc": "Open-source alternative to Google Cloud Run and AWS App Runner. Easily deploy internal tools across a team.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "abbreviate",
+      "url": "https://github.com/dnnrly/abbreviate",
+      "desc": "abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch n",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Balerter",
+      "url": "https://github.com/balerter/balerter",
+      "desc": "A self-hosted script-based alerting manager.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Dropship",
+      "url": "https://github.com/chrismckenzie/dropship",
+      "desc": "Tool for deploying code via cdn.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-furnace",
+      "url": "https://github.com/go-furnace/go-furnace",
+      "desc": "Hosting solution written in Go. Deploy your Application with ease on AWS, GCP or DigitalOcean.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "ko",
+      "url": "https://github.com/google/ko",
+      "desc": "Command line tool for building and deploying Go applications on Kubernetes",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "PipeCD",
+      "url": "https://github.com/pipe-cd/pipecd",
+      "desc": "A GitOps-style continuous delivery platform that provides consistent deployment and operations experience for any applic",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Juju",
+      "url": "https://jujucharms.com/",
+      "desc": "Cloud-agnostic service deployment and orchestration - supports EC2, Azure, Openstack, MAAS and more.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Snitch",
+      "url": "https://github.com/lucasgomide/snitch",
+      "desc": "Simple way to notify your team and many tools when someone has deployed any application via Tsuru.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Stack Up",
+      "url": "https://github.com/pressly/sup",
+      "desc": "Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "How To Deploy a Go Web Application with Docker",
+      "url": "https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker",
+      "desc": "Learn how to use Docker for Go development and how to build production Docker images.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Scaling Go Applications",
+      "url": "https://betterstack.com/community/guides/scaling-go/",
+      "desc": "Everything about building, deploying and scaling Go applications in production.",
+      "source": "Go",
+      "score": 2
+    }
+  ],
+  "🔧 开发工具": [
+    {
+      "name": "GoSQLX",
+      "url": "https://github.com/ajitpratap0/GoSQLX",
+      "desc": "High-performance SQL parser, formatter, linter, and security scanner with multi-dialect support and WASM playground.",
+      "source": "Go",
+      "score": 5
+    },
+    {
+      "name": "cometbft",
+      "url": "https://github.com/cometbft/cometbft",
+      "desc": "A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "tendermint",
+      "url": "https://github.com/tendermint/tendermint",
+      "desc": "High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault ",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Vasto",
+      "url": "https://github.com/chrislusf/vasto",
+      "desc": "A distributed high-performance key-value store. On Disk. Eventual consistent. HA. Able to grow or shrink without service",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "sponge",
+      "url": "https://github.com/zhufuyi/sponge",
+      "desc": "A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Interpol",
+      "url": "https://github.com/avahidi/interpol",
+      "desc": "Rule-based data generator for fuzzing and penetration testing.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "commander",
+      "url": "https://github.com/SimonBaeumer/commander",
+      "desc": "Tool for testing cli applications on windows, linux and osx.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Gont",
+      "url": "https://github.com/stv0g/gont",
+      "desc": "Go network testing toolkit for testing building complex network topologies using Linux namespaces.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "wstest",
+      "url": "https://github.com/posener/wstest",
+      "desc": "Websocket client for unit-testing a websocket http.Handler.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Ddosify",
+      "url": "https://github.com/ddosify/ddosify",
+      "desc": "High-performance load testing tool, written in Golang.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "Goakt",
+      "url": "https://github.com/Tochemey/goakt",
+      "desc": "Fast and Distributed Actor framework using protocol buffers as message for Golang.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "nview",
+      "url": "https://github.com/blinklabs-io/nview",
+      "desc": "Local monitoring tool for a Cardano Node. It's a TUI (terminal user interface) designed to fit most screens.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ctc",
+      "url": "https://github.com/wzshiming/ctc",
+      "desc": "The non-invasive cross-platform terminal color library does not need to modify the Print method.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "loom",
+      "url": "https://github.com/loom-go/loom",
+      "desc": "Signal-based reactive components framework for building TUIs.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "phoenix",
+      "url": "https://github.com/phoenix-tui/phoenix",
+      "desc": "High-performance TUI framework with Elm-inspired architecture, perfect Unicode rendering, and zero-allocation event syst",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "flash-flags",
+      "url": "https://github.com/agilira/flash-flags",
+      "desc": "Ultra-fast, zero-dependency, POSIX-compliant flag parsing library that can be used as drop-in stdlib replacement with se",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rueidis",
+      "url": "http://github.com/rueian/rueidis",
+      "desc": "Fast Redis RESP3 client with auto pipelining and server-assisted client side caching.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "elastic",
+      "url": "https://github.com/olivere/elastic",
+      "desc": "Elasticsearch client for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "elastigo",
+      "url": "https://github.com/mattbaird/elastigo",
+      "desc": "Elasticsearch client library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-elasticsearch",
+      "url": "https://github.com/elastic/go-elasticsearch",
+      "desc": "Official Elasticsearch client for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "evans",
+      "url": "https://github.com/ktr0731/evans",
+      "desc": "Evans: more expressive universal gRPC client.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "MailHog",
+      "url": "https://github.com/mailhog/MailHog",
+      "desc": "Email and SMTP testing with web and API interface.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Mailpit",
+      "url": "https://github.com/axllent/mailpit",
+      "desc": "Email and SMTP testing tool for developers.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "bbgo",
+      "url": "https://github.com/c9s/bbgo",
+      "desc": "A crypto trading bot framework written in Go. Including common crypto exchange API, standard indicators, back-testing an",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "OjG",
+      "url": "https://github.com/ohler55/ojg",
+      "desc": "Optimized JSON for Go is a high performance parser with a variety of additional JSON tools including JSONPath.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "melody",
+      "url": "https://github.com/olahol/melody",
+      "desc": "Minimalist framework for dealing with websocket sessions, includes broadcasting and automatic ping/pong handling.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "fortio",
+      "url": "https://github.com/fortio/fortio",
+      "desc": "Load testing library and command line tool, advanced echo server and web UI. Allows to specify a set query-per-second lo",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "fwdctl",
+      "url": "https://github.com/alegrey91/fwdctl",
+      "desc": "A simple and intuitive CLI to manage IPTables forwards in your Linux server.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gev",
+      "url": "https://github.com/Allenxuxu/gev",
+      "desc": "gev is a lightweight, fast non-blocking TCP network library based on Reactor mode.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "requests",
+      "url": "https://github.com/carlmjohnson/requests",
+      "desc": "HTTP requests for Gophers. Uses context.Context and doesn't hide the underlying net/http.Client, making it compatible wi",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "jsoniter",
+      "url": "https://github.com/json-iterator/go",
+      "desc": "High-performance 100% compatible drop-in replacement of \"encoding/json\".",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Flagr",
+      "url": "https://github.com/checkr/flagr",
+      "desc": "Flagr is an open-source feature flagging and A/B testing service.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "arch-go",
+      "url": "https://github.com/arch-go/arch-go",
+      "desc": "Architecture testing tool for Go projects.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "assert",
+      "url": "https://github.com/go-playground/assert",
+      "desc": "Basic Assertion Library used along side native go testing, with building blocks for custom assertions.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "biff",
+      "url": "https://github.com/fulldump/biff",
+      "desc": "Bifurcation testing framework, BDD compatible.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "cupaloy",
+      "url": "https://github.com/bradleyjkemp/cupaloy",
+      "desc": "Simple snapshot testing addon for your test framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "endly",
+      "url": "https://github.com/viant/endly",
+      "desc": "Declarative end to end functional testing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "envite",
+      "url": "https://github.com/PerimeterX/envite",
+      "desc": "Dev and testing environment management framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "flute",
+      "url": "https://github.com/suzuki-shunsuke/flute",
+      "desc": "HTTP client testing framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ginkgo",
+      "url": "https://onsi.github.io/ginkgo/",
+      "desc": "BDD Testing Framework for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-httpbin",
+      "url": "https://github.com/mccutchen/go-httpbin",
+      "desc": "HTTP testing and debugging tool with various endpoints for client testing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-mutesting",
+      "url": "https://github.com/zimmski/go-mutesting",
+      "desc": "Mutation testing for Go source code.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-snaps",
+      "url": "http://github.com/gkampitakis/go-snaps",
+      "desc": "Jest-like snapshot testing in Golang.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-testdeep",
+      "url": "https://github.com/maxatome/go-testdeep",
+      "desc": "Extremely flexible golang deep comparison, extends the go testing package.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goblin",
+      "url": "https://github.com/franela/goblin",
+      "desc": "Mocha like testing framework of Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gogiven",
+      "url": "https://github.com/corbym/gogiven",
+      "desc": "YATSPEC-like BDD testing framework for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gomatch",
+      "url": "https://github.com/jfilipczyk/gomatch",
+      "desc": "library created for testing JSON against patterns.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gospecify",
+      "url": "https://github.com/stesla/gospecify",
+      "desc": "This provides a BDD syntax for testing your Go code. It should be familiar to anybody who has used libraries such as rsp",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gotest.tools",
+      "url": "https://github.com/gotestyourself/gotest.tools",
+      "desc": "A collection of packages to augment the go testing package and support common patterns.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "is",
+      "url": "https://github.com/matryer/is",
+      "desc": "Professional lightweight testing mini-framework for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "omg.testingtools",
+      "url": "https://github.com/dedalqq/omg.testingtools",
+      "desc": "The simple library for change a values of private fields for testing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "should",
+      "url": "https://github.com/Kairum-Labs/should",
+      "desc": "Testing library with zero dependencies, detailed struct diffs and human-readable error messages.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "stop-and-go",
+      "url": "https://github.com/elgohr/stop-and-go",
+      "desc": "Testing helper for concurrency.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "testcase",
+      "url": "https://github.com/adamluzsi/testcase",
+      "desc": "Idiomatic testing framework for Behavior Driven Development.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Testify",
+      "url": "https://github.com/stretchr/testify",
+      "desc": "Sacred extension to the standard go testing package.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-localstack",
+      "url": "https://github.com/elgohr/go-localstack",
+      "desc": "Tool for using localstack in AWS testing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "govcr",
+      "url": "https://github.com/seborama/govcr",
+      "desc": "HTTP mock for Golang: record and replay HTTP interactions for offline testing.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "mockfs",
+      "url": "https://github.com/balinomad/go-mockfs",
+      "desc": "Mock filesystem for Go testing with error injection and latency simulation, built on `testing/fstest.MapFS`.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-fuzz",
+      "url": "https://github.com/dvyukov/go-fuzz",
+      "desc": "Randomized testing system.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "coregex",
+      "url": "https://github.com/coregx/coregex",
+      "desc": "Production regex engine with Rust regex-crate architecture: multi-engine DFA/NFA, SIMD prefilters, drop-in stdlib replac",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "cmd",
+      "url": "https://github.com/SimonBaeumer/cmd",
+      "desc": "Library for executing shell commands on osx, windows and linux.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goreporter",
+      "url": "https://github.com/wgliang/goreporter",
+      "desc": "Golang tool that does static analysis, unit testing, code review and generate code quality report.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sesh",
+      "url": "https://github.com/joshmedeski/sesh",
+      "desc": "Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "upterm",
+      "url": "https://github.com/owenthereal/upterm",
+      "desc": "A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, a",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "xgen",
+      "url": "https://github.com/xuri/xgen",
+      "desc": "XSD (XML Schema Definition) parser and Go/C/Java/Rust/TypeScript code generator.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "godbg",
+      "url": "https://github.com/tylerwince/godbg",
+      "desc": "Implementation of Rusts `dbg!` macro for quick and easy debugging during development.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Blast",
+      "url": "https://github.com/dave/blast",
+      "desc": "A simple tool for API load testing and batch jobs.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "cassowary",
+      "url": "https://github.com/rogerwelin/cassowary",
+      "desc": "Modern cross-platform HTTP load-testing tool written in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Vegeta",
+      "url": "https://github.com/tsenart/vegeta",
+      "desc": "HTTP load testing tool and library. It's over 9000!",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "bluetuith",
+      "url": "https://github.com/bluetuith-org/bluetuith",
+      "desc": "TUI Bluetooth manager for Linux.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "mockingjay",
+      "url": "https://github.com/quii/mockingjay-server",
+      "desc": "Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbe",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Seaweed File System",
+      "url": "https://github.com/chrislusf/seaweedfs",
+      "desc": "Fast, Simple and Scalable Distributed File System with O(1) disk seek.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "neoism",
+      "url": "https://github.com/jmcvetta/neoism",
+      "desc": "Neo4j client for Golang.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Pitaya",
+      "url": "https://github.com/topfreegames/pitaya",
+      "desc": "Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through t",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "GoEventBus",
+      "url": "https://github.com/Raezil/GoEventBus",
+      "desc": "A blazing‑fast, in‑memory, lock‑free event bus library",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "llb",
+      "url": "https://github.com/kirillDanshin/llb",
+      "desc": "It's a very simple but quick backend for proxy servers. Can be useful for fast redirection to predefined domain with zer",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-humanize",
+      "url": "https://github.com/dustin/go-humanize",
+      "desc": "Formatters for time, numbers, and memory size to human readable format.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "contem",
+      "url": "https://github.com/maxbolgarin/contem",
+      "desc": "Drop-in context.Context replacement for graceful shutdown Go applications.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "crawley",
+      "url": "https://github.com/s0rg/crawley",
+      "desc": "Web scraper/crawler for cli.",
+      "source": "Go",
+      "score": 2
+    }
+  ],
+  "⚡ 系统/性能": [
+    {
+      "name": "emitter-io",
+      "url": "https://github.com/emitter-io/emitter",
+      "desc": "High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love.",
+      "source": "Go",
+      "score": 5
+    },
+    {
+      "name": "gleam",
+      "url": "https://github.com/chrislusf/gleam",
+      "desc": "Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luaj",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "gws",
+      "url": "https://github.com/lxzan/gws",
+      "desc": "High-Performance WebSocket Server & Client With AsyncIO Supporting .",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "nbio",
+      "url": "https://github.com/lesismal/nbio",
+      "desc": "Pure Go 1000k+ connections solution, support tls/http1.x/websocket and basically compatible with net/http, with high-per",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "uniwidth",
+      "url": "https://github.com/unilibs/uniwidth",
+      "desc": "High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "hedzr/store",
+      "url": "https://github.com/hedzr/store",
+      "desc": "Extensible, high-performance configuration management library, optimized for hierarchical data.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "CloudQuery",
+      "url": "http://github.com/cloudquery/cloudquery",
+      "desc": "A high-performance ELT data integration framework with pluggable architecture.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ring",
+      "url": "https://github.com/TheTannerRyan/ring",
+      "desc": "Go implementation of a high performance, thread safe bloom filter.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "concurrent-swiss-map",
+      "url": "https://github.com/mhmtszr/concurrent-swiss-map",
+      "desc": "A high-performance, thread-safe generic concurrent hash map implementation with Swiss Map.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "golang-set",
+      "url": "https://github.com/deckarep/golang-set",
+      "desc": "Thread-Safe and Non-Thread-Safe high-performance sets for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "bcache",
+      "url": "https://github.com/iwanbk/bcache",
+      "desc": "Eventually consistent distributed in-memory cache Go library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gocache",
+      "url": "https://github.com/yuseferi/gocache",
+      "desc": "A data race free Go ache library with high performance and auto pruge functionality",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "icache",
+      "url": "https://github.com/mdaliyan/icache",
+      "desc": "A High Performance, Generic, thread-safe, zero-dependency cache package.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "otter",
+      "url": "https://github.com/maypok86/otter",
+      "desc": "A high performance lockless cache for Go. Many times faster than Ristretto and friends.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ristretto",
+      "url": "https://github.com/dgraph-io/ristretto",
+      "desc": "A high performance memory-bound Go cache.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "theine",
+      "url": "https://github.com/Yiling-J/theine-go",
+      "desc": "High performance, near optimal in-memory cache with proactive TTL expiration and generics.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "column",
+      "url": "https://github.com/kelindar/column",
+      "desc": "High-performance, columnar, embeddable in-memory store with bitmap indexing and transactions.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "mochi mqtt",
+      "url": "https://github.com/mochi-co/mqtt",
+      "desc": "Fully spec compliant, embeddable high-performance MQTT v5/v3 broker for IoT, smarthome, and pubsub.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "trpc-go",
+      "url": "https://github.com/trpc-group/trpc-go",
+      "desc": "The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "errors",
+      "url": "https://github.com/PumpkinSeed/errors",
+      "desc": "The most simple error wrapper with awesome performance and minimal memory overhead.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dec128",
+      "url": "https://github.com/jokruger/dec128",
+      "desc": "High performance 128-bit fixed-point decimal numbers.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "udecimal",
+      "url": "https://github.com/quagmt/udecimal",
+      "desc": "High performance, high precision, zero allocation fixed-point decimal library for financial applications.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go3d",
+      "url": "https://github.com/ungerik/go3d",
+      "desc": "Performance oriented 2D/3D math package for Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "nano",
+      "url": "https://github.com/lonng/nano",
+      "desc": "Lightweight, facility, high performance golang based game server framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "ants",
+      "url": "https://github.com/panjf2000/ants",
+      "desc": "A high-performance and low-cost goroutine pool in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "pond",
+      "url": "https://github.com/alitto/pond",
+      "desc": "Minimalistic and High-performance goroutine worker pool written in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "routine",
+      "url": "https://github.com/timandy/routine",
+      "desc": "`routine` is a `ThreadLocal` for go library. It encapsulates and provides some easy-to-use, non-competitive, high-perfor",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Cogent Core",
+      "url": "https://github.com/cogentcore/core",
+      "desc": "A framework for building 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and the web.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "energy",
+      "url": "https://github.com/energye/energy",
+      "desc": "Cross-platform based on LCL(Native System UI Control Library) and CEF(Chromium Embedded Framework) (Windows/ macOS / Lin",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "fyne",
+      "url": "https://github.com/fyne-io/fyne",
+      "desc": "Cross platform native GUIs designed for Go based on Material Design. Supports: Linux, macOS, Windows, BSD, iOS and Andro",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "qt",
+      "url": "https://github.com/therecipe/qt",
+      "desc": "Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "unison",
+      "url": "https://github.com/richardwilkes/unison",
+      "desc": "A unified graphical user experience toolkit for Go desktop applications. macOS, Windows, and Linux are supported.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "webview",
+      "url": "https://github.com/zserge/webview",
+      "desc": "Cross-platform webview window with simple two-way JavaScript bindings (Windows / macOS / Linux).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sysinfo",
+      "url": "https://github.com/zcalusic/sysinfo",
+      "desc": "A pure Go library providing Linux OS / kernel / hardware system information.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rulego",
+      "url": "https://github.com/rulego/rulego",
+      "desc": "RuleGo is a lightweight, high-performance, embedded, orchestrable component-based rule engine for IoT edge.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "jscan",
+      "url": "https://github.com/romshark/jscan",
+      "desc": "High performance zero-allocation JSON iterator.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Go-Spring",
+      "url": "https://github.com/go-spring/spring-core",
+      "desc": "A high-performance Go framework inspired by Spring Boot, offering DI, auto-configuration, and lifecycle management while",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gaio",
+      "url": "https://github.com/xtaci/gaio",
+      "desc": "High performance async-io networking for Golang in proactor mode.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gmqtt",
+      "url": "https://github.com/DrmagicE/gmqtt",
+      "desc": "Gmqtt is a flexible, high-performance MQTT broker library that fully implements the MQTT protocol V3.1.1.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gnet",
+      "url": "https://github.com/panjf2000/gnet",
+      "desc": "`gnet` is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gnet",
+      "url": "https://github.com/fish-tennis/gnet",
+      "desc": "`gnet` is a high-performance networking framework,especially for game servers.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "netpoll",
+      "url": "https://github.com/cloudwego/netpoll",
+      "desc": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "tspool",
+      "url": "https://github.com/two/tspool",
+      "desc": "A TCP Library use worker pool to improve performance and protect your server.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goxjs/gl",
+      "url": "https://github.com/goxjs/gl",
+      "desc": "Go cross-platform OpenGL bindings (OS X, Linux, Windows, browsers, iOS, Android).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "csvutil",
+      "url": "https://github.com/jszwec/csvutil",
+      "desc": "High Performance, idiomatic CSV record encoding and decoding to native Go structures.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-codec",
+      "url": "https://github.com/ugorji/go",
+      "desc": "High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "RoadRunner",
+      "url": "https://github.com/spiral/roadrunner",
+      "desc": "High-performance PHP application server, load-balancer and process manager.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goctx",
+      "url": "https://github.com/zerosnake0/goctx",
+      "desc": "Get your context value with high performance.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gofn",
+      "url": "https://github.com/tiendc/gofn",
+      "desc": "High performance utility functions written using Generics for Go 1.18+.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "loncha",
+      "url": "https://github.com/kazu/loncha",
+      "desc": "A high-performance slice Utilities.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rate",
+      "url": "https://github.com/webriots/rate",
+      "desc": "High-performance rate limiting library with token bucket and AIMD strategies.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "v4l",
+      "url": "https://github.com/korandiz/v4l",
+      "desc": "Video capture library for Linux, written in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Atreugo",
+      "url": "https://github.com/savsgio/atreugo",
+      "desc": "High performance and extensible micro web framework with zero memory allocations in hot paths.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "GoFrame",
+      "url": "https://github.com/gogf/gf",
+      "desc": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "hiboot",
+      "url": "https://github.com/hidevopsio/hiboot",
+      "desc": "hiboot is a high performance web application framework with auto configuration and dependency injection support.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "wasmbrowsertest",
+      "url": "https://github.com/agnivade/wasmbrowsertest",
+      "desc": "Run Go WASM tests in your browser.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "vFlow",
+      "url": "https://github.com/VerizonDigital/vflow",
+      "desc": "High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "autobench",
+      "url": "https://github.com/davecheney/autobench",
+      "desc": "Framework to compare the performance between different Go versions.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "count-min-log",
+      "url": "https://github.com/seiflotfy/count-min-log",
+      "desc": "Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but usin",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "cache2go",
+      "url": "https://github.com/muesli/cache2go",
+      "desc": "In-memory key:value cache which supports automatic invalidation based on timeouts.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "fastcache",
+      "url": "https://github.com/VictoriaMetrics/fastcache",
+      "desc": "fast thread-safe inmemory cache for big number of entries. Minimizes GC overhead.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-cache",
+      "url": "https://github.com/viney-shih/go-cache",
+      "desc": "A flexible multi-layer Go caching library to deal with in-memory and shared cache by adopting Cache-Aside pattern.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-mcache",
+      "url": "https://github.com/OrlovEvgeny/go-mcache",
+      "desc": "Fast in-memory key:value store/cache library. Pointer caches.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "imcache",
+      "url": "https://github.com/erni27/imcache",
+      "desc": "A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks ",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "ttlcache",
+      "url": "https://github.com/jellydator/ttlcache",
+      "desc": "An in-memory cache with item expiration and generics.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "concurrency-limiter",
+      "url": "https://github.com/vivek-ng/concurrency-limiter",
+      "desc": "Concurrency limiter with support for timeouts, dynamic priority and context cancellation of goroutines.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "gpool",
+      "url": "https://github.com/Sherifabdlnaby/gpool",
+      "desc": "manages a resizeable pool of context-aware goroutines to bound concurrency.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "stl",
+      "url": "https://github.com/ssgreg/stl",
+      "desc": "Software transactional locks based on Software Transactional Memory (STM) concurrency control mechanism.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "gopsutil",
+      "url": "https://github.com/shirou/gopsutil",
+      "desc": "Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "mm-go",
+      "url": "https://github.com/joetifa2003/mm-go",
+      "desc": "Generic manual memory management for golang.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "BadActor",
+      "url": "https://github.com/jaredfolkins/badactor",
+      "desc": "In-memory, application-driven jailer built in the spirit of fail2ban.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "memguard",
+      "url": "https://github.com/awnumar/memguard",
+      "desc": "A pure Go library for handling sensitive values in memory.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Extism Go SDK",
+      "url": "https://github.com/extism/go-sdk",
+      "desc": "Universal, cross-language WebAssembly framework for building plug-in systems and polyglot apps.",
+      "source": "Go",
+      "score": 2
+    }
+  ],
+  "📦 其他": [
+    {
+      "name": "raft",
+      "url": "https://github.com/hashicorp/raft",
+      "desc": "Golang implementation of the Raft consensus protocol, by HashiCorp.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "raft",
+      "url": "https://github.com/etcd-io/raft",
+      "desc": "Go implementation of the Raft consensus protocol, by CoreOS.",
+      "source": "Go",
+      "score": 4
+    },
+    {
+      "name": "ProtoActor",
+      "url": "https://github.com/asynkron/protoactor-go",
+      "desc": "Distributed actors for Go, C#, and Java/Kotlin.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "argv",
+      "url": "https://github.com/cosiner/argv",
+      "desc": "Go library to split command line string as arguments array using the bash syntax.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "complete",
+      "url": "https://github.com/posener/complete",
+      "desc": "Write bash completions in Go + Go command bash completion.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "konfig",
+      "url": "https://github.com/lalamove/konfig",
+      "desc": "Composable, observable and performant config handling for Go for the distributed processing era.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "abstruse",
+      "url": "https://github.com/bleenco/abstruse",
+      "desc": "Abstruse is a distributed CI platform.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "committer",
+      "url": "https://github.com/vadiminshakov/committer",
+      "desc": "A distributed transactions management system (2PC/3PC implementation).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dot",
+      "url": "https://github.com/dotchain/dot/",
+      "desc": "distributed sync using operational transformation/OT.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "failured",
+      "url": "https://github.com/andy2046/failured",
+      "desc": "adaptive accrual failure detector for distributed systems.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gmsec",
+      "url": "https://github.com/gmsec/micro",
+      "desc": "A Go distributed systems development framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "go-micro",
+      "url": "https://github.com/micro/go-micro",
+      "desc": "A distributed systems development framework.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "micro",
+      "url": "https://github.com/micro/micro",
+      "desc": "A distributed systems runtime for the cloud and beyond.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "rpcx",
+      "url": "https://github.com/smallnest/rpcx",
+      "desc": "Distributed pluggable RPC service framework like alibaba Dubbo.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Pixel",
+      "url": "https://github.com/gopxl/pixel",
+      "desc": "Hand-crafted 2D game library in Go.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Spot",
+      "url": "https://github.com/roblillack/spot",
+      "desc": "Reactive, cross-platform desktop GUI toolkit.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "eaopt",
+      "url": "https://github.com/MaxHalford/eaopt",
+      "desc": "An evolutionary optimization library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Goptuna",
+      "url": "https://github.com/c-bata/goptuna",
+      "desc": "Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "tfgo",
+      "url": "https://github.com/galeone/tfgo",
+      "desc": "Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graph",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "mangos",
+      "url": "https://github.com/nanomsg/mangos",
+      "desc": "Pure go implementation of the Nanomsg (\"Scalability Protocols\") with transport interoperability.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "goxygen",
+      "url": "https://github.com/shpota/goxygen",
+      "desc": "Generate a modern Web project with Go and Angular, React, or Vue in seconds.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "indigo",
+      "url": "https://github.com/osamingo/indigo",
+      "desc": "Distributed unique ID generator of using Sonyflake and encoded by Base58.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "shortid",
+      "url": "https://github.com/teris-io/shortid",
+      "desc": "Distributed generation of super short, unique, non-sequential, URL friendly IDs.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gotype",
+      "url": "https://github.com/wzshiming/gotype",
+      "desc": "Golang source code parsing, usage like reflect package.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "gonum",
+      "url": "https://github.com/gonum/gonum",
+      "desc": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, opt",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "MatProInterface.go",
+      "url": "https://github.com/MatProGo-dev/MatProInterface.go",
+      "desc": "MatProInterface.go is an open source package for defining mathematical programs (e.g., convex optimization problems) in ",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "signals",
+      "url": "https://github.com/coregx/signals",
+      "desc": "Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dbt",
+      "url": "https://github.com/nikogura/dbt",
+      "desc": "A framework for running self-updating signed binaries from a central, trusted repository.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "limiters",
+      "url": "https://github.com/mennanov/limiters",
+      "desc": "Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "lgo",
+      "url": "https://github.com/yunabe/lgo",
+      "desc": "Interactive Go programming with Jupyter. It supports code completion, code inspection and 100% Go compatibility.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "![CI",
+      "url": "https://github.com/janreges/siteone-crawler/workflows/CI/badge.svg",
+      "desc": "",
+      "source": "Rust",
+      "score": 2
+    },
+    {
+      "name": "goai",
+      "url": "https://github.com/zendev-sh/goai",
+      "desc": "Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "cosmos-sdk",
+      "url": "https://github.com/cosmos/cosmos-sdk",
+      "desc": "A Framework for Building Public Blockchains in the Cosmos Ecosystem.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "tronlib",
+      "url": "https://github.com/kslamph/tronlib",
+      "desc": "A comprehensive, production-ready Go SDK for interacting with the TRON blockchain with TRC20 token support.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "gocb",
+      "url": "https://github.com/couchbase/gocb",
+      "desc": "Official Couchbase Go SDK.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Temporal",
+      "url": "https://github.com/temporalio/sdk-go",
+      "desc": "Durable execution system for making code fault-tolerant and simple.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "mox",
+      "url": "https://github.com/mjl-/mox",
+      "desc": "Modern full-featured secure mail server for low-maintenance, self-hosted email.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Fault",
+      "url": "https://github.com/Southclaws/fault",
+      "desc": "An ergonomic mechanism for wrapping errors in order to facilitate structured metadata and context for error values.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "routine",
+      "url": "https://github.com/x-mod/routine",
+      "desc": "go routine control with context, support: Main, Go, Pool and some useful Executors.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "semaphore",
+      "url": "https://github.com/kamilsk/semaphore",
+      "desc": "Semaphore pattern implementation with timeout of lock/unlock operations based on channel and context.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-sciter",
+      "url": "https://github.com/sciter-sdk/go-sciter",
+      "desc": "Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "robotgo",
+      "url": "https://github.com/go-vgo/robotgo",
+      "desc": "Go Native cross-platform GUI system automation. Control the mouse, keyboard and other.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "smart-home",
+      "url": "https://github.com/e154/smart-home",
+      "desc": "Software package for IoT automation.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "parsley",
+      "url": "https://github.com/matzefriedrich/parsley",
+      "desc": "A flexible and modular reflection-based DI library with advanced features like scoped contexts and proxy generation, des",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "bexp",
+      "url": "https://github.com/happy-sdk/happy/tree/main/pkg/strings/bexp",
+      "desc": "Go implementation of Brace Expansion mechanism to generate arbitrary strings.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "anagent",
+      "url": "https://github.com/mudler/anagent",
+      "desc": "Minimalistic, pluggable Golang evloop/timer handler with dependency-injection.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "vssh",
+      "url": "https://github.com/yahoo/vssh",
+      "desc": "Go library for building network and server automation over SSH protocol.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "goxjs/glfw",
+      "url": "https://github.com/goxjs/glfw",
+      "desc": "Go cross-platform glfw library for creating an OpenGL context and receiving events.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "go-feature-flag",
+      "url": "https://github.com/thomaspoignant/go-feature-flag",
+      "desc": "A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "pagser",
+      "url": "https://github.com/foolin/pagser",
+      "desc": "Pagser is a simple, extensible, configurable parse and deserialize html page to struct based on goquery and struct tags ",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "aws-sdk-go",
+      "url": "https://github.com/aws/aws-sdk-go-v2",
+      "desc": "The official AWS SDK for the Go programming language.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "ctxutil",
+      "url": "https://github.com/posener/ctxutil",
+      "desc": "A collection of utility functions for contexts.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "fatcontext",
+      "url": "https://github.com/Crocmagnon/fatcontext",
+      "desc": "Fatcontext detects nested contexts in loops or function literals.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "dp",
+      "url": "https://github.com/scryinfo/dp",
+      "desc": "Through SDK for data exchange with blockchain, developers can get easy access to DAPP development.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "Guora",
+      "url": "https://github.com/meloalright/guora",
+      "desc": "A self-hosted Quora like web application written in Go.",
+      "source": "Go",
+      "score": 2
+    }
+  ],
+  "🔒 安全": [
+    {
+      "name": "loginsrv",
+      "url": "https://github.com/tarent/loginsrv",
+      "desc": "JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "paseto",
+      "url": "https://github.com/o1egl/paseto",
+      "desc": "Golang implementation of Platform-Agnostic Security Tokens (PASETO).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "scout",
+      "url": "https://github.com/jonoton/scout",
+      "desc": "Scout is a standalone open source software solution for DIY video security.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sdns",
+      "url": "https://github.com/semihalev/sdns",
+      "desc": "A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "sslb",
+      "url": "https://github.com/eduardonunesp/sslb",
+      "desc": "It's a Super Simples Load Balancer, just a little project to achieve some kind of performance.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Coraza",
+      "url": "https://github.com/corazawaf/coraza",
+      "desc": "Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "firewalld-rest",
+      "url": "https://github.com/prashantgupta24/firewalld-rest",
+      "desc": "A rest application to dynamically update firewalld rules on a linux server.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "themis",
+      "url": "https://github.com/cossacklabs/themis",
+      "desc": "high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-kn",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "walker",
+      "url": "https://github.com/cyucelen/walker",
+      "desc": "Seamlessly fetch paginated data from any source. Simple and high performance API scraping included.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "uuid",
+      "url": "https://github.com/google/uuid",
+      "desc": "Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Medium",
+      "url": "https://github.com/Medium/medium-sdk-go",
+      "desc": "Golang SDK for Medium's OAuth2 API.",
+      "source": "Go",
+      "score": 2
+    }
+  ],
+  "📚 学习资源": [
+    {
+      "name": "born",
+      "url": "https://github.com/born-ml/born",
+      "desc": "Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "evoli",
+      "url": "https://github.com/khezen/evoli",
+      "desc": "Genetic Algorithm and Particle Swarm Optimization library.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "dataframe-go",
+      "url": "https://github.com/rocketlaunchr/dataframe-go",
+      "desc": "Dataframes for machine-learning and statistics (similar to pandas).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "GoNB",
+      "url": "https://github.com/janpfeifer/gonb",
+      "desc": "Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Learn Go with TDD",
+      "url": "https://github.com/quii/learn-go-with-tests",
+      "desc": "Learn Go with test-driven development.",
+      "source": "Go",
+      "score": 3
+    }
+  ],
+  "💼 商业/增长": [
+    {
+      "name": "nject",
+      "url": "https://github.com/muir/nject",
+      "desc": "A type safe, reflective framework for libraries, tests, http endpoints, and service startup.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "Documize",
+      "url": "https://github.com/documize/community",
+      "desc": "Modern wiki software that integrates data from SaaS tools.",
+      "source": "Go",
+      "score": 3
+    },
+    {
+      "name": "paypal",
+      "url": "https://github.com/logpacker/PayPal-Go-SDK",
+      "desc": "Wrapper for PayPal payment API.",
+      "source": "Go",
+      "score": 2
+    },
+    {
+      "name": "uTask",
+      "url": "https://github.com/ovh/utask",
+      "desc": "Automation engine that models and executes business processes declared in yaml.",
+      "source": "Go",
+      "score": 2
+    }
+  ]
+}
